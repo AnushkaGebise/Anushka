@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-28T15:38:40 IST" name="Default suite" finished-at="2024-11-28T15:39:25 IST" duration-ms="44692">
+    <groups>
+    </groups>
+    <test started-at="2024-11-28T15:38:40 IST" name="Default test" finished-at="2024-11-28T15:39:25 IST" duration-ms="44692">
+      <class name="TestScript.Testcase01">
+        <test-method is-config="true" signature="Browser()[pri:0, instance:TestScript.Testcase01@18025ced]" started-at="2024-11-28T15:38:40 IST" name="Browser" finished-at="2024-11-28T15:38:48 IST" duration-ms="7835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method signature="usn()[pri:0, instance:TestScript.Testcase01@18025ced]" started-at="2024-11-28T15:38:48 IST" name="usn" finished-at="2024-11-28T15:38:48 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usn -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScript.Testcase01@18025ced]" started-at="2024-11-28T15:38:48 IST" name="close" finished-at="2024-11-28T15:38:49 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestScript.Testcase01 -->
+      <class name="TestScript.Testcase02">
+        <test-method is-config="true" signature="Browser()[pri:0, instance:TestScript.Testcase02@13cf7d52]" started-at="2024-11-28T15:38:49 IST" name="Browser" finished-at="2024-11-28T15:38:56 IST" duration-ms="7010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method signature="pwd()[pri:0, instance:TestScript.Testcase02@13cf7d52]" started-at="2024-11-28T15:38:56 IST" name="pwd" finished-at="2024-11-28T15:38:56 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pwd -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScript.Testcase02@13cf7d52]" started-at="2024-11-28T15:38:56 IST" name="close" finished-at="2024-11-28T15:38:56 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestScript.Testcase02 -->
+      <class name="TestScript.Testcase03">
+        <test-method is-config="true" signature="Browser()[pri:0, instance:TestScript.Testcase03@3a3e4aff]" started-at="2024-11-28T15:38:56 IST" name="Browser" finished-at="2024-11-28T15:39:03 IST" duration-ms="6613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method signature="title()[pri:0, instance:TestScript.Testcase03@3a3e4aff]" started-at="2024-11-28T15:39:03 IST" name="title" finished-at="2024-11-28T15:39:03 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScript.Testcase03@3a3e4aff]" started-at="2024-11-28T15:39:03 IST" name="close" finished-at="2024-11-28T15:39:04 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestScript.Testcase03 -->
+      <class name="TestScript.Testcase04">
+        <test-method is-config="true" signature="Browser()[pri:0, instance:TestScript.Testcase04@5d2a4eed]" started-at="2024-11-28T15:39:04 IST" name="Browser" finished-at="2024-11-28T15:39:10 IST" duration-ms="6207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method signature="loginbtn()[pri:0, instance:TestScript.Testcase04@5d2a4eed]" started-at="2024-11-28T15:39:10 IST" name="loginbtn" finished-at="2024-11-28T15:39:10 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginbtn -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScript.Testcase04@5d2a4eed]" started-at="2024-11-28T15:39:10 IST" name="close" finished-at="2024-11-28T15:39:11 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestScript.Testcase04 -->
+      <class name="TestScript.Testcase05">
+        <test-method is-config="true" signature="Browser()[pri:0, instance:TestScript.Testcase05@57459491]" started-at="2024-11-28T15:39:11 IST" name="Browser" finished-at="2024-11-28T15:39:17 IST" duration-ms="6563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method signature="url()[pri:0, instance:TestScript.Testcase05@57459491]" started-at="2024-11-28T15:39:17 IST" name="url" finished-at="2024-11-28T15:39:17 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScript.Testcase05@57459491]" started-at="2024-11-28T15:39:17 IST" name="close" finished-at="2024-11-28T15:39:17 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestScript.Testcase05 -->
+      <class name="TestScript.Testcase06">
+        <test-method is-config="true" signature="Browser()[pri:0, instance:TestScript.Testcase06@3f0846c6]" started-at="2024-11-28T15:39:17 IST" name="Browser" finished-at="2024-11-28T15:39:24 IST" duration-ms="6864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method signature="pagesource()[pri:0, instance:TestScript.Testcase06@3f0846c6]" started-at="2024-11-28T15:39:24 IST" name="pagesource" finished-at="2024-11-28T15:39:24 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagesource -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestScript.Testcase06@3f0846c6]" started-at="2024-11-28T15:39:24 IST" name="close" finished-at="2024-11-28T15:39:25 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestScript.Testcase06 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
